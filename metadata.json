@@ -1,0 +1,7 @@
+{
+  "name": "SI-KAPAS Smart Village",
+  "description": "Sistem Integrasi Kinerja & Pelayanan Aspirasi Sosial Desa Kapas, Bojonegoro. Integrasi Dashboard Eksekutif, Manajemen Kinerja, dan Pelaporan Warga via AI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
